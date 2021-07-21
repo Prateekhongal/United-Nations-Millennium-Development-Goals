@@ -5,5 +5,5 @@ The UN measures progress towards these goals using indicators such as percent of
 It is suggested to use the dataset given in DRIVENDATA https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/
 
 # Run
-The script also includes data preprocessing and all the required plots.
+The project also includes data preprocessing and all the required plots.
 Run the "UnitedNations.py" file.
