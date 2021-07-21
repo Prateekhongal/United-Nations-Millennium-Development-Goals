@@ -6,4 +6,4 @@ It is suggested to use the dataset given in DRIVENDATA https://www.drivendata.or
 
 # Run
 The script also includes data preprocessing and all the required plots.
-Run the "script.py" file.
+Run the "UnitedNations.py" file.
